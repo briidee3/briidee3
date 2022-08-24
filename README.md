@@ -35,4 +35,4 @@ Feel free to let me know if you would like to do/know anything with/about anythi
 
 Anyways, here's a picture of an egg I found online:
 
-  ![egg](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.ytimg.com%2Fvi%2FbnZQgp6srF4%2Fhqdefault.jpg&f=1&nofb=1)
+  ![egg](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.ytimg.com%2Fvi%2FbnZQgp6srF4%2Fhqdefault.jpg&f=1&nofb=1 "Hopefully this link doesn't die too soon--this is some good 'egg'--gotta love it")
