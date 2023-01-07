@@ -18,7 +18,7 @@ I'm always interested in learning more and hearing what people might think about
 I have interests in all sorts of things, often related to [Computer] Science-y sort of stuff.
 If anyone would like some help with anything, feel free to let me know, as I'm always keeping an
 eye out for any kind of opportunity to learn something or help someone with just about anything
-in the realm of Computer Science (or just science in general, ie. [quantum/astro/theoretical/general] physics, chemistry, etc.).
+in the realm of Computer Science (or just science in general, ie. [quantum/astro/theoretical/general] physics, chemistry, philosophy, etc.).
 (I may be a bit of a nerd, lol)
 
 I'd also like to put a disclaimer here to recognize that a lot (probably most) of the projects I have
