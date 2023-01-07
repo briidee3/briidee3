@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 I'd like to start out by saying:
 
-**This GitHub is for my own personal use, whether it be for personal projects, school stuff, and other things in a similar vein.**
+**This GitHub is (generally) for my own personal use, whether it be for personal projects, school stuff, and/or other things in a similar vein.**
 Therefore, it may lack some professionality (as well as some other stuff, like fully fleshed out work, lol)
 
 
