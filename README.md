@@ -18,7 +18,8 @@ I'm always interested in learning more and hearing what people might think about
 I have interests in all sorts of things, often related to [Computer] Science-y sort of stuff.
 If anyone would like some help with anything, feel free to let me know, as I'm always keeping an
 eye out for any kind of opportunity to learn something or help someone with just about anything
-in the realm of Computer Science (or just science in general, ie. [quantum/astro/theoretical/general] physics, chemistry, philosophy, etc.).
+in the realm of Computer Science (or just science in general, ie. [quantum/astro/theoretical/general] physics, chemistry, philosophy, etc.);
+though I would like to note that these days I don't have as much time on my hands as I used to, so I may not always be available (sorry about that!).
 (I may be a bit of a nerd, lol)
 
 I'd also like to put a disclaimer here to recognize that a lot (probably most) of the projects I have
@@ -30,7 +31,7 @@ have to say, especially if it's ideas regarding any project in particular that m
 Feel free to let me know if you would like to do/know anything with/about anything on here--I'd be happy to help!
 
 
-> I can usually be reached at briidee3@gmail.com, otherwise, leave a message on here and I'll probably be able to get
+> I can usually be reached at brid3@proton.me, otherwise, leave a message on here and I'll probably be able to get
 > back to you in a (relatively) timely manner
 
 
