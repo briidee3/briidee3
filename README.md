@@ -7,8 +7,9 @@ You can click the Preview link to take a look at your changes.
 
 I'd like to start out by saying:
 
-**This GitHub is (generally) for my own personal use, whether it be for personal projects, school stuff, and/or other things in a similar vein.**
-Therefore, it may lack some professionality (as well as some other stuff, like fully fleshed out work, lol)
+**This GitHub is (generally) for my own personal use, whether it be for personal projects, research, school stuff, and/or other things in a similar vein.**
+Therefore, alongside my preference for informality in communication (for reasons such as effectiveness, efficiency, conciseness, etc.),
+it may lack some professionality (as well as some other stuff, like fully fleshed out work, lol)
 
 
 Please feel free to let me know your thoughts on anything I have here, 
@@ -24,10 +25,15 @@ though I would like to note that these days I don't have as much time on my hand
 
 I'd also like to put a disclaimer here to recognize that a lot (probably most) of the projects I have
 here on GitHub are unfinished for one reason or another; some of them, I just moved on from, and others,
-I may have lost any reason to continue with it (for the time being, at least). I also don't post all of my projects on here, so that's another thing to
-consider (for example, several projects related to mechanical/electrical engineering, which mostly consist of things like CAD, microcontroller [ie, pi,
-arduino] stuff, etc.) Whether I moved on to something else or have grown busy with other things, I'm still interested in hearing what anyone may 
+I may have lost any reason to continue with it (for the time being, at least). 
+For example, the Fitbit HUD; I have no plans to go back to that, as I no longer use a Fitbit and have since 
+hardware hacked and soft-modded a decade old enterprise Heads Up Display {i.e. Epson Moverio}, so I have no reason to
+go back anyways, haha
+I also don't post all of my projects on here, so that's another thing to consider (for example, several projects related to mechanical/electrical engineering, 
+which mostly consist of things like CAD, microcontroller [ie, pi, arduino] stuff, etc.)
+Whether I moved on to something else or have grown busy with other things, I'm still interested in hearing what anyone may 
 have to say, especially if it's ideas regarding any project in particular that may help move it forward.
+
 Feel free to let me know if you would like to do/know anything with/about anything on here--I'd be happy to help!
 
 
