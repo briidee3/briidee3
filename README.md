@@ -9,7 +9,7 @@ I'd like to start out by saying:
 
 **This GitHub is (generally) for my own personal use, whether it be for personal projects, research, school stuff, and/or other things in a similar vein.**
 Therefore, alongside my preference for informality in communication (for reasons such as effectiveness, efficiency, conciseness, etc.),
-it may lack some professionality (as well as some other stuff, like fully fleshed out work, lol)
+it may lack some professionality.
 
 
 Please feel free to let me know your thoughts on anything I have here, 
